@@ -13,3 +13,5 @@ To gain insights on the factors that result in online purchasing and to predict 
 - Marketing team should focus on webpage improvement
 - Biggest factor on buying is the amount of time users spend on webpage
 - November has the highest purchase rate, marketing team should utilize November month for as much promotions and advertising campaigns
+
+#### Head over to file OnlinePurchasingIntentionPrediction.ipynb and see how we did it! 
